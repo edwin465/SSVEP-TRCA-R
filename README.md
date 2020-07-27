@@ -1,8 +1,8 @@
 # Demo of TRCA and TRCA-R for SSVEP Recognition
-In this code, we provide how to use the task-related component analysis (TRCA) and task-related component analysis with reference signal (TRCA-R) for SSVEP recognition.
+This code shows how to use the task-related component analysis (TRCA) and task-related component analysis with reference signal (TRCA-R) for SSVEP recognition.
 
-Please refer the following papers for more details:
-Wong, C. M., et al. (2019). Spatial Filtering in SSVEP-based BCIs: Unified Framework and New Improvements. IEEE Transactions on Biomedical Engineering,
+Please refer the following paper for more details:
+Wong, C. M., et al. (2020). Spatial Filtering in SSVEP-based BCIs: Unified Framework and New Improvements. IEEE Transactions on Biomedical Engineering,
 
 This code is prepared by Chi Man Wong (chiman465@gmail.com)
 

@@ -16,10 +16,11 @@ Tang, J. et al. Optimizing SSVEP-Based % BCI System towards Practical High-Speed
 This code is prepared by Chi Man Wong (chiman465@gmail.com)
 
 Version: 
+
 27 July 2020 (v1.0): TRCA and TRCA-R
 29 July 2020 (v1.1): Add mTRCA 
 
-If you use this code for a publication, please cite the following paper
+If you use this code for a publication, please cite the following paper: 
 
 @article{wong2020spatial,
 

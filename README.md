@@ -1,7 +1,9 @@
 # TRCA and it variants: SSVEP Recognition
+
 This code shows how to use the task-related component analysis (TRCA), the TRCA with reference signal (TRCA-R), and the modified TRCA (mTRCA) for SSVEP recognition.
 
 Please refer the following papers for more details:
+
 TRCA: 
 Nakanishi, M., et al. (2017). Enhancing detection of SSVEPs for a high-speed brain speller using task-related component analysis. IEEE Transactions on Biomedical Engineering, 65(1), 104-112.
 
@@ -34,4 +36,5 @@ If you use this code for a publication, please cite the following paper
    }
 
 Feedback:
+
 Please email me (chiman465@gmail.com) if you find any mistakes and problems about it.

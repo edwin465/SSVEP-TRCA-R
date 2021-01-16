@@ -29,15 +29,23 @@ If you use this code for a publication, please cite the following paper:
 
    title={Spatial Filtering in SSVEP-based BCIs: Unified Framework and New Improvements},
    
-   author={Wong, Chi Man and Wang, Boyu and Wang, Ze and Lao, Ka Fai and Rosa, Agostinho and Wan, Feng},
+   author={Wong,Chi Man and Wang, Boyu and Wang, Ze and Lao, Ka Fai and Rosa, Agostinho and Wan, Feng},
    
-   journal={IEEE Transactions on Biomedical Engineering},
+   title={{S}patial {F}iltering in {SSVEP}-based {BCI}s: {U}nified {F}ramework and {N}ew {I}mprovements},
+   
+   journal=IEEE Trans. Biomed. Eng.,
+   
+   volume={67},
+   
+   number={11},
+   
+   pages={3057 --3072},
    
    year={2020},
    
    publisher={IEEE}
    
-   }
+}
 
 # Feedback:
 

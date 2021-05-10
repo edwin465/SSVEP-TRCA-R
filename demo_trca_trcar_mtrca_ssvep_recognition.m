@@ -172,7 +172,7 @@ for sn=1:num_of_subj
                         
                         % Generate the sine-cosine reference signal
                         ref1=ref_signal_nh(sti_f(j),Fs,pha_val(j),sig_len,num_of_harmonics);
-                        % ================ eCCA ===============
+                        % ================ CCA ===============
                         if (enable_bit(1)==1)
                             [~,~,r0]=canoncorr(test_signal',ref1');
                             CCAR(j)=r0(1);

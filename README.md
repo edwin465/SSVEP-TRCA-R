@@ -8,10 +8,10 @@ TRCA:
 Nakanishi, M., et al. (2017). Enhancing detection of SSVEPs for a high-speed brain speller using task-related component analysis. IEEE Transactions on Biomedical Engineering, 65(1), 104-112.
 
 TRCA-R:
-Wong, C. M., et al. (2020). Spatial Filtering in SSVEP-based BCIs: Unified Framework and New Improvements. IEEE Transactions on Biomedical Engineering.
+Wong, C. M., et al. (2020). Spatial filtering in SSVEP-based BCIs: unified framework and new improvements. IEEE Transactions on Biomedical Engineering, 67(11), 3057-3072.
 
 mTRCA:
-Tang, J. et al. Optimizing SSVEP-Based % BCI System towards Practical High-Speed Spelling. Sensors 2020, 20, 4186 
+Tang, J. et al. Optimizing SSVEP-Based BCI System towards Practical High-Speed Spelling. Sensors 2020, 20, 4186. 
 
 This code is prepared by Chi Man Wong (chiman465@gmail.com)
 
